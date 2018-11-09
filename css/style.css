@@ -1207,8 +1207,7 @@ h6 {
 .icon-yuque:before {
   content: url(../images/yuque.png);
   position: relative;
-  top: 5px; 
-}
+  top: 5px; }
 
 .icon-rss:before {
   content: "\e604"; }
